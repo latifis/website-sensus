@@ -1,0 +1,32 @@
+.footer{
+    bottom: 0;
+    width: 100%;
+    position: fixed;   
+    height: 10%;      
+    background: black;
+}
+.buat{
+	width: 30%;
+	height: 40pt;
+	margin-top: 10pt;
+	background: grey;
+	border-top-left-radius: 10px; 
+	border-top-right-radius: 10px; 
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	text-align: center;
+	padding-top: 8pt;
+}
+.tabelku{
+	position: center;
+}
+.buat2{
+	width: 25%;
+	margin-top: 18pt;
+	background: white;
+	border-top-left-radius: 10px; 
+	border-top-right-radius: 10px; 
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	text-align: center;
+}
